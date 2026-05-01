@@ -28,7 +28,7 @@ nbstripout = "^0.9.1"
 
 [tool.black]
 line-length = 70
-target-version = ["py310"]
+target-version = ["py311"]
 
 [tool.isort]
 line_length = 70
@@ -36,7 +36,7 @@ profile = "black"
 
 [tool.ruff]
 line-length = 70
-target-version = "py310"
+target-version = "py311"
 
 [tool.ruff.lint]
 select = [
