@@ -46,3 +46,4 @@ select = [
     "I",  # import rules (pairs nicely with isort)
     "UP", # pyupgrade
 ]
+ignore = ["E741", "B905"]
